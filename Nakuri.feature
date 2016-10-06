@@ -9,4 +9,4 @@ Scenario: Nakuri valid login
 When enter username And password And click on login
 |komminenichaithanya@gmail.com|949205518|
 |komminenichaithanya@gmail.com|9492055182k|
-Then Successfully login to nakuri
+Then Success login to nakuri
